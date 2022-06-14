@@ -1,0 +1,5 @@
+###IGNORING
+
+.DS_Store
+Thumbs.db
+.idea/
